@@ -20,7 +20,7 @@
 </a> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> I’m currently learning Javascript/React.js
 - 💞️ I’m looking to collaborate on OpenSource.
-- 📫 | Write to me: <a href="https://t.me/Ibrohim_Fayzullayev">Telegram</a> -->
+- 📫 | Write to me: <a href="https://t.me/Jony_0504">Telegram</a> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=IbrohimFayzullayev.IbrohimFayzullayev)
 
@@ -54,29 +54,17 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📊 **this week i spent my time on:**
 
-<!-- START_SECTION:waka -->
 
 ```text
 JavaScript   16 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.50 %
 React        10 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.46 %
 ```
 
-<!-- END_SECTION:waka -->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/jonibek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
-
-<!-- TODO-IST:START -->
-
-🏆 7,995 Karma Points
-🌸 Completed 0 tasks today
-✅ Completed 673 tasks so far
-⏳ Longest streak is 10 days
-
-<!-- TODO-IST:END -->
 
 <p align="center">
   <a href="https://github.com/MJony05?tab=repositories&sort=stargazers">
@@ -106,10 +94,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  | ![image](https://git-trophy-tests.vercel.app/?username=ThnksCJ&theme=algolia&no-frame=true&column=7)![image](https://user-images.githubusercontent.com/20955511/103046275-5c3c6080-4590-11eb-8c86-0656d3477a56.png)                                                         |
 
 
-
-<!-- **IbrohimFayzullayev/IbrohimFayzullayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- <h4> Here are some ideas to get you started: </h4> -->
 
 <!-- - 🔭 I’m currently working on Frontend Development -->
 <!-- - 🌱 I’m currently learning React Js  -->
