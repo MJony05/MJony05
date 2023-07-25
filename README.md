@@ -3,21 +3,7 @@
 
 <!-- <h1 align="center">Hi , </h1><br /> -->
 <h1> Hey there 👋, I'm Jonibek</h1>
-<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
-<a href="https://twitter.com/Jonibek0950">
-  <img align="left" alt="Jonibek Munirov| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/jonibek/">
-  <img align="left" alt="Ibrokhim's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-<!-- <a href="https://discord.gg/">
-  <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a> -->
-
-<!-- <a href="https://open.spotify.com/user/">
-  <img align="left" alt="Bekzod's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> I’m currently learning Javascript/React.js
 - 💞️ I’m looking to collaborate on OpenSource.
 - 📫 | Write to me: <a href="https://t.me/Jony_0504">Telegram</a> -->
