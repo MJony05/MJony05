@@ -9,7 +9,7 @@
 - 📫 | Write to me: <a href="https://t.me/Jony_0504">Telegram</a> -->
 
 
-Hi, I'm <b> Jonibek Munirov</b>, a passionate self-taught Full Stack Web developer from Uzbekistan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm <b> Jonibek Munirov</b>, Full Stack Web developer from Uzbekistan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
