@@ -18,7 +18,7 @@ Hi, I'm <b> Jonibek Munirov</b>, a passionate self-taught Full Stack Web develop
 - 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about Frontend Development || MERN
 - 📫 How to reach me: munirovjonibek@gmail.com [](mail:"munirovjonibek@gmail.com")
-- ⚡ Fun fact: I have puppy)
+- ⚡ Fun fact: I have a puppy)
 - 💬 ask me about anything, I am happy to help
 
 
