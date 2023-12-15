@@ -1,5 +1,3 @@
-<!-- ### Hi there 👋 -->
-<!-- <h3 align="center">A frontend developer from Uzbekistan</h3> -->
 
 <h1> Hey there 👋, I'm Jonibek</h1>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> I’m currently learning Javascript/React.js
