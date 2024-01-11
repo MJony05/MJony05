@@ -10,7 +10,7 @@ Hi, I'm <b> Jonibek Munirov</b>, Full Stack Web developer from Uzbekistan. My pa
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **teamX.uz**
+- 🔭 I’m currently **Open to Work**
 - 🌱 I’m currently learning **DevOps**
 - 💬 Ask me about Frontend Development || MERN
 - 📫 How to reach me: munirovjonibek@gmail.com [](mail:"munirovjonibek@gmail.com")
